@@ -2,6 +2,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
+
+//INTEGRANTES
+//Marlon Jared Saenz Blanc 202230010131
+//Gerardo Arturo Galindo Garcia 202410020410
+//Manuel Antonio Escalante Palma 202420110246
+
 package estadisticas;
 
 import javax.swing.*;
